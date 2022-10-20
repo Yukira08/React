@@ -1,3 +1,6 @@
-# React
+# Food Order App
 
-This repository contains all my React projects for practice during class. The projects are organized in multiple branches where each branch represents one project.
+This is an app where menus are dosplayed and can added to the cart and order from the order form.
+
+
+
